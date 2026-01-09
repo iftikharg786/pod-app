@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Customify - Print on Demand",
+  "description": "Premium custom product ordering app for shirts, mugs, mats, and more with live high-fidelity previews.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
